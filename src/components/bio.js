@@ -53,7 +53,7 @@ const Bio = () => {
           borderRadius: `50%`,
         }}
       />
-      <p>
+      <p> FullStack Marketer {` `}
         <a href="https://www.linkedin.com/in/panos-makris-8aa02a27/">
           Βρες με στο linkedin
         </a>
