@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p> FullStack Marketer | 
-        <a href="https://www.linkedin.com/in/panos-makris-8aa02a27/">
+        <a href="https://www.linkedin.com/in/panos-makris-8aa02a27/" style="text-decoration: none;">
           Βρες με στο linkedin
         </a>
       </p>
