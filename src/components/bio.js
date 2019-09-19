@@ -10,6 +10,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 
 import { rhythm } from "../utils/typography"
+import { NONAME } from "dns"
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -38,6 +39,7 @@ const Bio = () => {
       style={{
         display: `flex`,
         marginBottom: rhythm(2.5),
+        textDecorationLine: none,
       }}
     >
       <Image
@@ -54,7 +56,7 @@ const Bio = () => {
         }}
       />
       <p> FullStack Marketer | 
-        <a href="https://www.linkedin.com/in/panos-makris-8aa02a27/" style="text-decoration: none;">
+        <a href="https://www.linkedin.com/in/panos-makris-8aa02a27/">
           Βρες με στο linkedin
         </a>
       </p>
