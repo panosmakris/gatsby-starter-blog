@@ -2,6 +2,10 @@
 path: WordPress Guide 2019
 date: 2019-09-20T14:38:34.460Z
 title: WordPress 2019 - Ο απόλυτος οδηγός για "σωστό SEO"
+yoast_keyword: WordPress Guide 2019
+description: >-
+  WordPress Guide 2019 Ο απόλυτος οδηγός για πολύ μικρές επιχειρήσεις και
+  solopreneurs
 ---
 
 
