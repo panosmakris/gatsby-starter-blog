@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Performance Marketing Blog Powered by Gatsby`,
     author: `Panos Makris`,
-    description: `Εδώ θα βρείτε χρήσιμες πληροφορίες και συμβουές γύρω από το Performance Marketing`,
+    description: `Performance Marketing | Digital Marketing | Ads | SEO | Google Ads | freebies | `,
     siteUrl: `https://optimistic-volhard-c69d07.netlify.com/`,
     social: {
       twitter: `kylemathews`,
