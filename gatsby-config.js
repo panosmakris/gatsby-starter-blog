@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Performance Marketing Blog Powered by Gatsby`,
+    title: `Performance Marketing Blog`,
     author: `Panos Makris`,
     description: `Performance Marketing | Digital Marketing | Ads | SEO | Google Ads | freebies | `,
     siteUrl: `https://optimistic-volhard-c69d07.netlify.com/`,
@@ -8,7 +8,7 @@ module.exports = {
       twitter: `kylemathews`,
     },
   },
-  plugins: [`gatsby-plugin-netlify-cms`, `gatsby-plugin-advanced-sitemap`,
+  plugins: [`gatsby-plugin-netlify-cms`, `gatsby-plugin-advanced-sitemap`, `gatsby-plugin-extract-schema`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
