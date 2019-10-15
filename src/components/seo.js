@@ -44,10 +44,6 @@ function SEO({ description, lang, meta, title }) {
           content: title,
         },
         {
-          property: `og:image`,
-          content: thumbnail,
-        },
-        {
           property: `og:description`,
           content: metaDescription,
         },
@@ -77,7 +73,7 @@ function SEO({ description, lang, meta, title }) {
 }
 
 SEO.defaultProps = {
-  lang: `en`,
+  lang: `el`,
   meta: [],
   description: ``,
 }
