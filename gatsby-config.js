@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Performance Marketing Blog`,
+    title: `Performance Marketing Athens`,
     author: `Panos Makris`,
-    description: `Performance Marketing | Digital Marketing | Ads | SEO | Google Ads | freebies | `,
+    description: `Tips & Tricks για όλους όσους θέλουν να μάθουν τα πάντα για Performance Marketing | Digital Marketing | Ads | SEO | Google Ads | Freebies | Φτιαγμένο από marketers για marketers `,
     siteUrl: `https://optimistic-volhard-c69d07.netlify.com/`,
     social: {
       twitter: `kylemathews`,

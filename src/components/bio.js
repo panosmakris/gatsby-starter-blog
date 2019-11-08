@@ -54,7 +54,7 @@ const Bio = () => {
           borderRadius: `50%`,
         }}
       />
-      <p> FullStack Marketer | <a href="https://www.linkedin.com/in/panos-makris-8aa02a27/">Βρες με στο linkedin</a></p>
+      <p> FullStack Marketer | <a href="https://coggle.it/diagram/WrqrY8GZizcjGrXO/t/digital-marketing-beginner's-guide-road-map-by-panos-makris/ab7d53aa0555eead3e52ef87d12dd1ec8dc908d219ab37b830013c236a96fbbb">Performance Marketing RoadMap</a> | <a href="https://www.linkedin.com/in/panos-makris-8aa02a27/">LinkedIn</a></p>
     </div>
   )
 }
