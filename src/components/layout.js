@@ -53,6 +53,7 @@ class Layout extends React.Component {
       )
     }
     return (
+      <>
       <Helmet><meta name="p:domain_verify" content="1f71c2d8d04b0c68d24358c2719a439b"/></Helmet>
       <div
         style={{
@@ -70,6 +71,7 @@ class Layout extends React.Component {
           <a href="https://www.gatsbyjs.org">Gatsby</a>
         </footer>
       </div>
+      </>
     )
   }
 }
