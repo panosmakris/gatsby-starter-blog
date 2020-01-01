@@ -2,12 +2,42 @@
 path: WordPress Guide 2019
 date: 2019-09-20T14:38:34.460Z
 title: WordPress 2019 - Ο απόλυτος οδηγός για "σωστό SEO"
-yoast_keyword: WordPress Guide 2019
+thumbnail: /assets/undraw_next_option_2ajo.png
 description: >-
   WordPress Guide 2019 Ο απόλυτος οδηγός για πολύ μικρές επιχειρήσεις και
   solopreneurs
+categories: 'SEO, WordPress,'
+tags: 'SEO, WordPress,'
 ---
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://optimistic-volhard-c69d07.netlify.com/wordpress-2019-%CE%BF-%CE%B1%CF%80%CF%8C%CE%BB%CF%85%CF%84%CE%BF%CF%82-%CE%BF%CE%B4%CE%B7%CE%B3%CF%8C%CF%82-%CE%B3%CE%B9%CE%B1-%CF%83%CF%89%CF%83%CF%84%CF%8C-seo/"
+  },
+  "headline": "WordPress 2019 - Ο απόλυτος οδηγός για σωστό SEO",
+  "description": "WordPress Guide 2019 Ο απόλυτος οδηγός για πολύ μικρές επιχειρήσεις και solopreneurs",
+  "image": "https://raw.githubusercontent.com/panosmakris/gatsby-starter-blog/master/static/assets/undraw_next_option_2ajo.png",  
+  "author": {
+    "@type": "Person",
+    "name": "Panos Makris"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Performance Marketing Athens",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://optimistic-volhard-c69d07.netlify.com/static/3a40b396e0bdf467af525d0e3696b1dd/30d3a/25.jpg",
+      "width": 50,
+      "height": 50
+    }
+  },
+  "datePublished": "2019-10-13",
+  "dateModified": "2020-01-01"
+}
+</script>
 
 # WordPress Guide 2019
 
