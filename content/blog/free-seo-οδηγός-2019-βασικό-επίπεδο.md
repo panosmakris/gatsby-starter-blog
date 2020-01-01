@@ -12,11 +12,42 @@ summary: >-
   έκανα μια λίστα με τα πιο απλά και μικρής διάρκειας video που μπορείς να βρεις
   στο YouTube με σκοπό να σε βοηθήσουν να μάθεις να κάνεις SEO [βασικό επίπεδο]
   ή να καταλάβεις πως δουλεύει το SEO
-yoast_keyword: 'Free, SEO, Λίστα,'
 description: >-
   Θέλεις να μάθεις για τα βασικά SEO ή να κάνεις SEO στο site σου και δεν ξέρεις
   από που να ξεκινήσεις;
+categories: 'SEO, FREE, GUIDE,'
+tags: 'SEO, FREE, GUIDE,'
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://optimistic-volhard-c69d07.netlify.com/free-seo-%CE%BF%CE%B4%CE%B7%CE%B3%CF%8C%CF%82-2019-%CE%B2%CE%B1%CF%83%CE%B9%CE%BA%CF%8C-%CE%B5%CF%80%CE%AF%CF%80%CE%B5%CE%B4%CE%BF/"
+  },
+  "headline": "Free SEO οδηγός 2019 [βασικό επίπεδο]",
+  "description": "Θέλεις να μάθεις για τα βασικά SEO ή να κάνεις SEO στο site σου και δεν ξέρεις από που να ξεκινήσεις;",
+  "image": "https://raw.githubusercontent.com/panosmakris/gatsby-starter-blog/master/static/assets/undraw_next_option_2ajo.png",  
+  "author": {
+    "@type": "Person",
+    "name": "Panos Makris"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Performance Marketing Athens",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://optimistic-volhard-c69d07.netlify.com/static/3a40b396e0bdf467af525d0e3696b1dd/30d3a/25.jpg",
+      "width": 50,
+      "height": 50
+    }
+  },
+  "datePublished": "2019-10-13",
+  "dateModified": "2020-01-01"
+}
+</script>
+
 Θέλεις να μάθεις για τα βασικά SEO ή να κάνεις SEO στο site σου και δεν ξέρεις από που να ξεκινήσεις; 
 
 
