@@ -7,13 +7,42 @@ summary: >-
   Click ad fraud είναι όταν κάποιος/κάποιοι κάνει/κάνουν κλικ στις διαφημίσεις
   σας χωρίς να έχουν σκοπό να προβούν σε κάποιου είδους επαγγελματική συναλλαγή
   με την επιχείρηση σας
-yoast_keyword: click ad fraud
 description: >-
   "Click ad fraud είναι όταν κάποιος/κάποιοι κάνει/κάνουν κλικ στις διαφημίσεις
   σας χωρίς να έχουν σκοπό να προβούν σε κάποιου είδους επαγγελματική συναλλαγή
   με την επιχείρηση σας"
+categories: 'PPC, ADS, CLICK FRAUD'
+tags: 'PPC, ADS, CLICK FRAUD'
 ---
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://optimistic-volhard-c69d07.netlify.com/click-ad-fraud/"
+  },
+  "headline": "Click ad fraud",
+  "description": "Click ad fraud είναι όταν κάποιος/κάποιοι κάνει/κάνουν κλικ στις διαφημίσεις σας χωρίς να έχουν σκοπό να προβούν σε κάποιου είδους επαγγελματική συναλλαγή με την επιχείρηση σας",
+  "image": "https://raw.githubusercontent.com/panosmakris/gatsby-starter-blog/master/static/assets/click_ad_fraud_performance_marketing.jpg",  
+  "author": {
+    "@type": "Person",
+    "name": "Panos Makris"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Performance Marketing Athens",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://optimistic-volhard-c69d07.netlify.com/static/3a40b396e0bdf467af525d0e3696b1dd/30d3a/25.jpg",
+      "width": 50,
+      "height": 50
+    }
+  },
+  "datePublished": "2019-10-23",
+  "dateModified": "2020-01-01"
+}
+</script>
 
 # Τι είναι click ad fraud;
 
