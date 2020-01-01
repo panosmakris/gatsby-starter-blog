@@ -34,7 +34,7 @@ tags: 'SEO, WordPress,'
       "height": 50
     }
   },
-  "datePublished": "2019-10-13",
+  "datePublished": "2019-10-20",
   "dateModified": "2020-01-01"
 }
 </script>
