@@ -17,7 +17,7 @@ tags: 'Google Search Console, SEO, Average Position'
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": https://optimistic-volhard-c69d07.netlify.com/%CF%80%CF%89%CF%82-%CE%B2%CF%81%CE%AF%CF%83%CE%BA%CE%BF%CF%85%CE%BC%CE%B5-%CF%84%CE%BF-%CF%80%CF%81%CE%B1%CE%B3%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CF%8C-average-position-%CF%83%CF%84%CE%BF-google-search-console-gsc/"
+    "@id": "https://optimistic-volhard-c69d07.netlify.com/%CF%80%CF%89%CF%82-%CE%B2%CF%81%CE%AF%CF%83%CE%BA%CE%BF%CF%85%CE%BC%CE%B5-%CF%84%CE%BF-%CF%80%CF%81%CE%B1%CE%B3%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CF%8C-average-position-%CF%83%CF%84%CE%BF-google-search-console-gsc/"
   },
   "headline": "Πως βρίσκουμε το πραγματικό average position στο Google Search Console [GSC];",
   "description": "Ξυπνάς ένα πρωί και βλέπεις το project σου να έχει πέσει 50 θέσεις στο GSC. Πριν αρχίσεις τις αναζητήσεις για το καινούργιο core update της Google θα πρέπει να σκεφτείς ότι με το πέρασμα του καιρού, η μηχανή αναζήτησης συνδέει το site σου με περισσότερα queries [αναζητήσεις].",
