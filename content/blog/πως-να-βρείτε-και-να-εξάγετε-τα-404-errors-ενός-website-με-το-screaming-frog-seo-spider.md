@@ -26,9 +26,9 @@ tags: 'SEO, 404, Screaming Frog, Free,'
     {
       "@context": "https://schema.org/", 
       "@type": "HowTo", 
-      "name": "Πως να βρείτε και να εξάγετε τα 404 errors ενός website με το Screaming Frog SEO Spider": "
-    Παρόλο που τα 404 errors δεν έχουν άμεση αρνητική επίδραση στην κατάταξη ενός site στα οργανικά αποτελέσματα των μηχανών αναζήτησης, επηρεάζουν με αρνητικό τρόπο την εμπειρία του χρήστη και αυτό θα έχει αρνητική επίπτωση σε βάθος χρόνου μιας και οι χρήστες θα φεύγουν από το site επειδή δεν βρίσκουν αυτό που έψαχναν.  
-    Εδώ θα δούμε τον απλό, γρήγορο και δωρεάν τρόπο για να βρείτε τα 404 errors με απώτερο σκοπό να βελτιώσετε το SEO ενός site.",
+      "name": "Πως να βρείτε και να εξάγετε τα 404 errors ενός website με το Screaming Frog SEO Spider",
+      "description": "Παρόλο που τα 404 errors δεν έχουν άμεση αρνητική επίδραση στην κατάταξη ενός site στα οργανικά αποτελέσματα των μηχανών αναζήτησης, επηρεάζουν με αρνητικό τρόπο την εμπειρία του χρήστη και αυτό θα έχει αρνητική επίπτωση σε βάθος χρόνου μιας και οι χρήστες θα φεύγουν από το site επειδή δεν βρίσκουν αυτό που έψαχναν.  
+      Εδώ θα δούμε τον απλό, γρήγορο και δωρεάν τρόπο για να βρείτε τα 404 errors με απώτερο σκοπό να βελτιώσετε το SEO ενός site.",
       "image": "https://optimistic-volhard-c69d07.netlify.com/assets/SEO_404-Screaming_Frog_Performance_Marketing_Athens.png",
       "totalTime": "PT1M",
       "estimatedCost": {
@@ -76,8 +76,7 @@ tags: 'SEO, 404, Screaming Frog, Free,'
         "url": "https://optimistic-volhard-c69d07.netlify.com/%CF%80%CF%89%CF%82-%CE%BD%CE%B1-%CE%B2%CF%81%CE%B5%CE%AF%CF%84%CE%B5-%CE%BA%CE%B1%CE%B9-%CE%BD%CE%B1-%CE%B5%CE%BE%CE%AC%CE%B3%CE%B5%CF%84%CE%B5-%CF%84%CE%B1-404-errors-%CE%B5%CE%BD%CF%8C%CF%82-website-%CE%BC%CE%B5-%CF%84%CE%BF-screaming-frog-seo-spider/"
       }]    
     }
-    </script>
-
+</script>
   
 
 
