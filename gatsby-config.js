@@ -5,7 +5,7 @@ module.exports = {
     description: `Tips & Tricks για όλους όσους θέλουν να μάθουν τα πάντα για Performance Marketing | Digital Marketing | Ads | SEO | Google Ads | Freebies | Φτιαγμένο από marketers για marketers `,
     siteUrl: `https://optimistic-volhard-c69d07.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `PerformanceMar8`,
     },
   },
   plugins: [`gatsby-plugin-netlify-cms`, `gatsby-plugin-advanced-sitemap`, `gatsby-plugin-extract-schema`,
