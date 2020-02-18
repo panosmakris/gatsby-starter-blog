@@ -48,7 +48,7 @@ function SEO({ description, lang, meta, title, image }) {
           content: metaDescription,
         },
         { name: `og:image`,
-          content: `image`,
+          content: thumbnail,
         },
         {
           property: `og:type`,
@@ -67,7 +67,7 @@ function SEO({ description, lang, meta, title, image }) {
           content: title,
         },
         { name: `twiiter:image`,
-          content: `thumbnail`,
+          content: thumbnail,
         },
         {
           name: `twitter:description`,
