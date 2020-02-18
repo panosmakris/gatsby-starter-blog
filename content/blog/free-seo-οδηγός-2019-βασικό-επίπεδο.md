@@ -3,6 +3,7 @@ path: 'Free SEO οδηγός 2019 [βασικό επίπεδο]'
 date: 2019-09-23T10:49:16.316Z
 title: 'Free SEO οδηγός 2019 [βασικό επίπεδο]'
 thumbnail: /assets/undraw_next_option_2ajo.png
+featuredImage: /assets/undraw_next_option_2ajo.png
 summary: >-
   Θέλεις να μάθεις για τα βασικά SEO ή να κάνεις SEO στο site σου και δεν ξέρεις
   από που να ξεκινήσεις; Για αρχή θα πρέπει να σε ενημερώσω ότι θα πρέπει να
@@ -60,7 +61,8 @@ tags: 'SEO, FREE, GUIDE,'
 
 
 
-# Free SEO Λίστα 2019
+# Free SEO Λίστα
+ 2019
 
 
 
