@@ -48,7 +48,7 @@ function SEO({ description, lang, meta, title, image, thumbnail }) {
           content: metaDescription,
         },
         { name: `og:image`,
-          content: `thumbnail`,
+          content: `https://optimistic-volhard-c69d07.netlify.com/assets/undraw_next_option_2ajo.png`,
         },
         {
           property: `og:type`,
@@ -67,7 +67,7 @@ function SEO({ description, lang, meta, title, image, thumbnail }) {
           content: title,
         },
         { name: `twiiter:image`,
-          content: `thumbnail`,
+          content: `https://optimistic-volhard-c69d07.netlify.com/assets/undraw_next_option_2ajo.png`,
         },
         {
           name: `twitter:description`,
