@@ -19,6 +19,7 @@ function SEO({ description, lang, meta, title, thumbnail }) {
             title
             description
             author
+            siteUrl
           }
         }
       }
@@ -48,7 +49,7 @@ function SEO({ description, lang, meta, title, thumbnail }) {
           content: metaDescription,
         },
         { property: `og:image`,
-          content: thumbnail,
+          content: site.siteMetadata.siteUrl+thumbnail,
         },
         {
           property: `og:type`,
@@ -67,7 +68,7 @@ function SEO({ description, lang, meta, title, thumbnail }) {
           content: title,
         },
         { name: `twiiter:image`,
-          content: thumbnail,
+          content: site.siteMetadata.siteUrl+thumbnail,
         },
         {
           name: `twitter:description`,
