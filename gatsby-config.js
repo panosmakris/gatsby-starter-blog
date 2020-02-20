@@ -8,7 +8,7 @@ module.exports = {
       twitter: `PerformanceMar8`,
     },
   },
-  plugins: [`gatsby-plugin-netlify-cms`, `gatsby-plugin-advanced-sitemap`, `gatsby-plugin-extract-schema`,
+  plugins: [`gatsby-plugin-netlify-cms`, `gatsby-plugin-extract-schema`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
