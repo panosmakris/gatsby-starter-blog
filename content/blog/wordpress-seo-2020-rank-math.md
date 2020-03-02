@@ -1,16 +1,16 @@
 ---
 path: WordPress-SEO-2020-Rank-Math
 date: 2020-02-28T15:00:05.437Z
-title: WordPress SEO 2020 Rank Math
+title: 'Πως να κάνετε WordPress SEO [search engine optimization] με το Rank Math '
 thumbnail: /assets/seo_404-screaming_frog_performance_marketing_athens.png
 summary: >-
   Εδώ είναι το πιο σημαντικό κομμάτι για κάθε τοπική επιχείρηση που ενδιαφέρεται
   για SEO και πιο συγκεκριμένα για Local SEO. Συμπληρώνουμε τα πάντα εκτός από
   'Logo', 'Google Maps API Key' & 'Geo Coordinates' επειδή είναι προαιρετικά. 
 description: >-
-  Σήμερα θα δούμε πώς να κάνουμε SEO για μια καφετέρια που έχει WordPress
-  Website. Το Plugin που θα χρησιμοποιήσουμε θα είναι το γνωστό [και δωρεάν]
-  'Rank Math'.
+  Σήμερα θα δούμε πώς να κάνουμε SEO [search engine optimization] για μια
+  καφετέρια που έχει WordPress Website. Το Plugin που θα χρησιμοποιήσουμε είναι
+  το γνωστό [και δωρεάν] 'Rank Math'.
 categories: 'WordPress, SEO, 2020, Rank Math,'
 tags: 'WordPress, SEO, 2020, Rank Math,'
 ---
@@ -18,8 +18,8 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 {
   "@context": "https://schema.org/", 
   "@type": "HowTo", 
-  "name": "WordPress SEO 2020 Rank Math",
-  "description": "Σήμερα θα δούμε πώς να κάνουμε SEO για μια καφετέρια που έχει WordPress Website. Το Plugin που θα χρησιμοποιήσουμε θα είναι το γνωστό [και δωρεάν] 'Rank Math'",
+  "name": "Πως να κάνετε WordPress SEO [search engine optimization] με το Rank Math ",
+  "description": "Σήμερα θα δούμε πώς να κάνουμε SEO [search engine optimization] για μια καφετέρια που έχει WordPress Website. Το Plugin που θα χρησιμοποιήσουμε είναι το γνωστό [και δωρεάν] 'Rank Math'",
   "image": "https://optimistic-volhard-c69d07.netlify.com/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-19_45_51.png",
   "totalTime": "PT20M",
   "estimatedCost": {
@@ -201,7 +201,7 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 }
 </script>
 
-Σήμερα θα δούμε πώς να κάνουμε SEO για μια καφετέρια που έχει WordPress Website. Το Plugin που θα χρησιμοποιήσουμε θα είναι το γνωστό \[και δωρεάν] 'Rank Math'. Ας ξεκινήσουμε.
+Σήμερα θα δούμε πώς να κάνουμε SEO για μια καφετέρια που έχει WordPress Website. Το Plugin που θα χρησιμοποιήσουμε είναι το γνωστό \[και δωρεάν] 'Rank Math'. Ας ξεκινήσουμε.
 
 Βήμα 1
 
