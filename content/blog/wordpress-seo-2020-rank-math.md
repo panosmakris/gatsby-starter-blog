@@ -6,8 +6,7 @@ thumbnail: /assets/seo_404-screaming_frog_performance_marketing_athens.png
 summary: >-
   Εδώ είναι το πιο σημαντικό κομμάτι για κάθε τοπική επιχείρηση που ενδιαφέρεται
   για SEO και πιο συγκεκριμένα για Local SEO. Συμπληρώνουμε τα πάντα εκτός από
-  'Logo', 'Google Maps API Key' & 'Geo Coordinates'. Τα τελευταία είναι
-  προαιρετικά. 
+  'Logo', 'Google Maps API Key' & 'Geo Coordinates' επειδή είναι προαιρετικά. 
 description: >-
   Σήμερα θα δούμε πώς να κάνουμε SEO για μια καφετέρια που έχει WordPress
   Website. Το Plugin που θα χρησιμοποιήσουμε θα είναι το γνωστό [και δωρεάν]
@@ -86,7 +85,7 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
     "url": "https://optimistic-volhard-c69d07.netlify.com/wordpress-seo-2020-rank-math/"
   },{
     "@type": "HowToStep",
-    "text": "Εάν ξέρετε τι είναι Google Search Console ή έχετε πρόσβαση σε αυτό τότε πατήστε στο ‘Authorize’
+    "text": "Εάν ξέρετε τι είναι Google Search Console ή έχετε πρόσβαση σε αυτό, τότε πατήστε στο ‘Authorize’
 
 Αλλιώς πατήστε ‘Skip Step’",
     "image": "https://optimistic-volhard-c69d07.netlify.com/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-19_55_37.png",
@@ -101,8 +100,8 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 Πατάμε ‘Off’ στο Include Images
 
 Πατάμε ‘Deselect All’ στα Public Post Types και μετά τικ στο ‘Σελίδες’.
-*Εάν έχετε και blog τότε πατάμε και το ‘Άρθρα’
-*Εάν έχετε και Woocommerce τότε πατάμε και το ‘Προϊόντα’
+*Εάν έχετε και blog, τότε πατάμε και το ‘Άρθρα’
+*Εάν έχετε και Woocommerce, τότε πατάμε και το ‘Προϊόντα’
 
 Πατάμε ‘Deselect All’ στα Public Taxonomies
 
@@ -144,11 +143,11 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 
 Πατάμε ‘On’ στο Schema Type
 
-Εάν έχετε blog, διαλέξτε Article και μετά πατήστε ‘Blog Post’. Εάν δεν έχετε τότε διαλέξτε ‘None (Click here to set one’)
+Εάν έχετε blog, διαλέξτε Article και μετά πατήστε ‘Blog Post’. Εάν δεν έχετε, τότε διαλέξτε ‘None (Click here to set one’)
 
 Διαλέγουμε ‘Service’ για τις Σελίδες
 
-Πατήστε ‘Προϊόντα’ εάν έχετε WooCommerce διαφορετικά πατήστε ‘None’
+Πατήστε ‘Προϊόντα’ εάν έχετε WooCommerce, διαφορετικά πατήστε ‘None’
 
 Μετά θα πατήσουμε ‘Save and Continue’",
     "image": "https://optimistic-volhard-c69d07.netlify.com/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-20_02_56.png",
@@ -174,7 +173,7 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
     "@type": "HowToStep",
     "text": "Πατάμε ‘Titles and Meta’ στην αριστερή στήλη [WordPress Dashboard Left Menu Sidebar] και μετά πατάμε στην καρτέλα ‘Local SEO’
 
-Εδώ είναι πιο σημαντικό κομμάτι για κάθε τοπική επιχείρηση που ενδιαφέρεται για SEO και πιο συγκεκριμένα για Local SEO. Συμπληρώνουμε τα πάντα εκτός από ‘Logo’, ‘Google Maps API Key’ & ‘Geo Coordinates’. Τα τελευταία είναι προαιρετικά.
+Εδώ είναι πιο σημαντικό κομμάτι για κάθε τοπική επιχείρηση που ενδιαφέρεται για SEO και πιο συγκεκριμένα για Local SEO. Συμπληρώνουμε τα πάντα εκτός από ‘Logo’, ‘Google Maps API Key’ & ‘Geo Coordinates’ επειδή είναι προαιρετικά.
 
 Μετά θα πατήσουμε ‘Save Changes’",
     "image": "https://optimistic-volhard-c69d07.netlify.com/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-20_11_57.png",
@@ -260,7 +259,7 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 
 ![](/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-19_55_37.png)
 
-Εάν ξέρετε τι είναι Google Search Console ή έχετε πρόσβαση σε αυτό τότε πατήστε στο 'Authorize'
+Εάν ξέρετε τι είναι Google Search Console ή έχετε πρόσβαση σε αυτό, τότε πατήστε στο 'Authorize'
 
 Αλλιώς πατήστε 'Skip Step'
 
@@ -277,8 +276,8 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 Πατάμε 'Off' στο Include Images
 
 Πατάμε 'Deselect All' στα Public Post Types και μετά τικ στο 'Σελίδες'. \
-*Εάν έχετε και blog τότε πατάμε και το 'Άρθρα'\
-*Εάν έχετε και Woocommerce τότε πατάμε και το 'Προϊόντα'
+*Εάν έχετε και blog, τότε πατάμε και το 'Άρθρα'\
+*Εάν έχετε και Woocommerce, τότε πατάμε και το 'Προϊόντα'
 
 Πατάμε 'Deselect All' στα Public Taxonomies
 
@@ -328,11 +327,11 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 
 Πατάμε 'On' στο Schema Type
 
-Εάν έχετε blog, διαλέξτε Article και μετά πατήστε 'Blog Post'. Εάν δεν έχετε τότε διαλέξτε 'None (Click here to set one')
+Εάν έχετε blog, διαλέξτε Article και μετά πατήστε 'Blog Post'. Εάν δεν έχετε, τότε διαλέξτε 'None (Click here to set one')
 
 Διαλέγουμε 'Service' για τις Σελίδες
 
-Πατήστε 'Προϊόντα' εάν έχετε WooCommerce διαφορετικά πατήστε 'None'
+Πατήστε 'Προϊόντα' εάν έχετε WooCommerce, διαφορετικά πατήστε 'None'
 
 
 
@@ -370,7 +369,7 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 
 Πατάμε 'Titles and Meta' στην αριστερή στήλη \[WordPress Dashboard Left Menu Sidebar] και μετά πατάμε στην καρτέλα 'Local SEO'
 
-Εδώ είναι το πιο σημαντικό κομμάτι για κάθε τοπική επιχείρηση που ενδιαφέρεται για SEO και πιο συγκεκριμένα για Local SEO. Συμπληρώνουμε τα πάντα εκτός από 'Logo', 'Google Maps API Key' & 'Geo Coordinates'. Τα τελευταία είναι προαιρετικά. 
+Εδώ είναι το πιο σημαντικό κομμάτι για κάθε τοπική επιχείρηση που ενδιαφέρεται για SEO και πιο συγκεκριμένα για Local SEO. Συμπληρώνουμε τα πάντα εκτός από 'Logo', 'Google Maps API Key' & 'Geo Coordinates' επειδή είναι προαιρετικά. 
 
 
 
@@ -404,9 +403,12 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 
 
 
+  
+  
 
 
 
+  
 
 Αντίο για τώρα 
 
