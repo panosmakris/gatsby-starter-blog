@@ -4,7 +4,7 @@ date: 2020-02-28T15:00:05.437Z
 title: WordPress SEO 2020 Rank Math
 thumbnail: /assets/seo_404-screaming_frog_performance_marketing_athens.png
 summary: >-
-  Εδώ είναι πιο σημαντικό κομμάτι για κάθε τοπική επιχείρηση που ενδιαφέρεται
+  Εδώ είναι το πιο σημαντικό κομμάτι για κάθε τοπική επιχείρηση που ενδιαφέρεται
   για SEO και πιο συγκεκριμένα για Local SEO. Συμπληρώνουμε τα πάντα εκτός από
   'Logo', 'Google Maps API Key' & 'Geo Coordinates'. Τα τελευταία είναι
   προαιρετικά. 
@@ -370,7 +370,7 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 
 Πατάμε 'Titles and Meta' στην αριστερή στήλη \[WordPress Dashboard Left Menu Sidebar] και μετά πατάμε στην καρτέλα 'Local SEO'
 
-Εδώ είναι πιο σημαντικό κομμάτι για κάθε τοπική επιχείρηση που ενδιαφέρεται για SEO και πιο συγκεκριμένα για Local SEO. Συμπληρώνουμε τα πάντα εκτός από 'Logo', 'Google Maps API Key' & 'Geo Coordinates'. Τα τελευταία είναι προαιρετικά. 
+Εδώ είναι το πιο σημαντικό κομμάτι για κάθε τοπική επιχείρηση που ενδιαφέρεται για SEO και πιο συγκεκριμένα για Local SEO. Συμπληρώνουμε τα πάντα εκτός από 'Logo', 'Google Maps API Key' & 'Geo Coordinates'. Τα τελευταία είναι προαιρετικά. 
 
 
 
