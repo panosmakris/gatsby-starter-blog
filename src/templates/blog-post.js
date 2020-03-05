@@ -19,6 +19,7 @@ class BlogPostTemplate extends React.Component {
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
           thumbnail={post.frontmatter.thumbnail}
+          tags={post.frontmatter.tags}
         />
         <article>
           <header>
@@ -100,6 +101,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         thumbnail
+        tags
       }
     }
   }

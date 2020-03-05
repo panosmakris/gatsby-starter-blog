@@ -51,7 +51,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Performance Marketing Athens`,
-        short_name: `GatsbyJS`,
+        short_name: `Performance Marketing Athens`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
