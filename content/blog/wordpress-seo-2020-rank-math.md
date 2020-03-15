@@ -253,8 +253,6 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 
 Μετά θα πατήσουμε 'Save and Continue'
 
-
-
 Βήμα 7
 
 ![](/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-19_55_37.png)
@@ -262,8 +260,6 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 Εάν ξέρετε τι είναι Google Search Console ή έχετε πρόσβαση σε αυτό, τότε πατήστε στο 'Authorize'
 
 Αλλιώς πατήστε 'Skip Step'
-
-
 
 Βήμα 8
 
@@ -276,14 +272,12 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 Πατάμε 'Off' στο Include Images
 
 Πατάμε 'Deselect All' στα Public Post Types και μετά τικ στο 'Σελίδες'. \
-*Εάν έχετε και blog, τότε πατάμε και το 'Άρθρα'\
-*Εάν έχετε και Woocommerce, τότε πατάμε και το 'Προϊόντα'
+_Εάν έχετε και blog, τότε πατάμε και το 'Άρθρα'_\
+Εάν έχετε και Woocommerce, τότε πατάμε και το 'Προϊόντα'
 
 Πατάμε 'Deselect All' στα Public Taxonomies
 
 Μετά θα πατήσουμε 'Save and Continue'
-
-
 
 Βήμα 9
 
@@ -292,8 +286,6 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 Πατάμε 'On' και στις 3 επιλογές
 
 Μετά θα πατήσουμε 'Save and Continue'
-
-
 
 Βήμα 10
 
@@ -305,8 +297,6 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 
 Πατάμε 'Setup Advanced Options'
 
-
-
 Βήμα 11
 
 ![](/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-20_01_18.png)
@@ -314,8 +304,6 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 Πατάμε 'On' και στις 2 επιλογές
 
 Μετά θα πατήσουμε 'Save and Continue'
-
-
 
 Βήμα 12
 
@@ -333,15 +321,7 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 
 Πατήστε 'Προϊόντα' εάν έχετε WooCommerce, διαφορετικά πατήστε 'None'
 
-
-
 Μετά θα πατήσουμε 'Save and Continue'
-
-
-
-
-
-
 
 Βήμα 13
 
@@ -359,29 +339,19 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 
 Μετά θα πατήσουμε 'Save Changes'
 
-
-
 Βήμα 14
 
 ![](/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-20_11_57.png)
-
-
 
 Πατάμε 'Titles and Meta' στην αριστερή στήλη \[WordPress Dashboard Left Menu Sidebar] και μετά πατάμε στην καρτέλα 'Local SEO'
 
 Εδώ είναι το πιο σημαντικό κομμάτι για κάθε τοπική επιχείρηση που ενδιαφέρεται για SEO και πιο συγκεκριμένα για Local SEO. Συμπληρώνουμε τα πάντα εκτός από 'Logo', 'Google Maps API Key' & 'Geo Coordinates' επειδή είναι προαιρετικά. 
 
-
-
 Μετά θα πατήσουμε 'Save Changes'
-
-
 
 Βήμα 15
 
 ![](/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-20_14_24.png)
-
-
 
 Το Robots Meta θα το αφήσουμε χωρίς να κάνουμε τικ σε κάποια από τις διαθέσιμες επιλογές
 
@@ -395,20 +365,19 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 
 Διαλέγουμε 'Summary Card with Large Image' για Twitter Card Type
 
-
-
 Μετά θα πατήσουμε 'Save Changes'
 
+Τα πεδία Headline & Description \[στις καρτέλες General] μπορούν να συμπληρωθούν με ότι δεδομένα θέλετε. 
+
+Στην Καρτέλα 'Social' θα βάλουμε τις εικόνες που θέλουμε να φαίνονται στα social media και πιο συγκεκριμένα στο Facebook & Twitter. Αυτό μπορούμε να το κάνουμε για κάθε σελίδα.  
+
+Βήμα 16
+
+![](/assets/menu-rank-math-optimistic-volhard-perfrormance-marketing-athens.png)
+
+Στην σελίδα 'Menu' θα πρέπει να διαλέξουμε το 'Service' Schema Type και μετά να συμπληρώσουμε τα πεδία 'Service Type', 'Price', 'Price Currency' με τα δεδομένα που αντιπροσωπεύουν το menu της σελίδας. Εάν έχετε πολλαπλές σελίδες με υπηρεσίες/menu/προσφορές τότε θα πρέπει να επαναλάβετε την συγκεκριμένη διαδικασία.
 
 
-
-
-  
-  
-
-
-
-  
 
 Αντίο για τώρα 
 
