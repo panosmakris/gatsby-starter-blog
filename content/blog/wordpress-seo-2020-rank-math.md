@@ -1,7 +1,9 @@
 ---
 path: WordPress-SEO-2020-Rank-Math
 date: 2020-02-28T15:00:05.437Z
-title: 'Πως να κάνετε WordPress SEO [search engine optimization] με το Rank Math '
+title: >-
+  Πως να κάνετε WordPress SEO [search engine optimization] για καφετέρια με το
+  Rank Math [δωρεάν] 
 thumbnail: /assets/seo_404-screaming_frog_performance_marketing_athens.png
 summary: >-
   Εδώ είναι το πιο σημαντικό κομμάτι για κάθε τοπική επιχείρηση που ενδιαφέρεται
@@ -18,7 +20,7 @@ tags: 'WordPress, SEO, 2020, Rank Math,'
 {
   "@context": "https://schema.org/", 
   "@type": "HowTo", 
-  "name": "Πως να κάνετε WordPress SEO [search engine optimization] με το Rank Math ",
+  "name": "Πως να κάνετε WordPress SEO [search engine optimization] για καφετέρια με το Rank Math [δωρεάν]",
   "description": "Σήμερα θα δούμε πώς να κάνουμε SEO [search engine optimization] για μια καφετέρια που έχει WordPress Website. Το Plugin που θα χρησιμοποιήσουμε είναι το γνωστό [και δωρεάν] 'Rank Math'",
   "image": "https://optimistic-volhard-c69d07.netlify.com/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-19_45_51.png",
   "totalTime": "PT20M",
