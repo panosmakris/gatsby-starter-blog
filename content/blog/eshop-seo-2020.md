@@ -20,7 +20,7 @@ tags: "eshop, seo, οδηγος, rank math, schema, "
 "@type": "WebPage",
 "@id": "https://optimistic-volhard-c69d07.netlify.app/eshop-seo-2020/"
 },
-"headline": "Πως να κάνω SEO σε ένα Eshop?",
+"headline": "Eshop SEO 2020",
 "description": "Θα πρέπει να έχετε ένα eshop που να είναι λειτουργικό και γρήγορο σε κινητές συσκευές μιας και η Google έχει καθιερώσει το ‘mobile-first indexing’. Αυτό σημαίνει ότι το content και το UX της mobile version του eshop",
 "image": "https://optimistic-volhard-c69d07.netlify.com/assets/seo_404-screaming_frog_performance_marketing_athens.png",
 "author": {
