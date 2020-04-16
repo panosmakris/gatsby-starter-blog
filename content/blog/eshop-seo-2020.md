@@ -88,7 +88,7 @@ tags: "eshop, seo, οδηγος, rank math, schema, "
 
 Για Business Type θα διαλέξουμε ‘clothing store ’
 
-Θα γράψουμε το όνομα της καφετέριας στο Company Name
+Θα γράψουμε το όνομα στο Company Name
 
 Θα διαλέξουμε ή θα ανεβάσουμε το logo του eshop \[εάν υπάρχει]
 
@@ -154,7 +154,7 @@ tags: "eshop, seo, οδηγος, rank math, schema, "
 
 \*Ανάλογα με το theme σας, αυτή η εικόνα θα έχει περισσότερες ή λιγότερες επιλογές
 
-Τώρα θα δούμε πως θα ρυθμίσουμε το Schema \[δομημένα δεδομένα] για την καφετέρια σας.
+Τώρα θα δούμε πως θα ρυθμίσουμε το Schema \[δομημένα δεδομένα] για το eshop.
 
 Πατάμε ‘On’ στο Schema Type
 
@@ -256,8 +256,6 @@ https://docs.google.com/spreadsheets/d/1_8y-7QhLVz6kxpXLUUTxBTYV9w0-juuE23eKDJBF
 * Να κάνετε τροποποιήσεις στο theme liquid. Για περισσότερες πληροφορίες σχετικά με το τελευταίο, μπορείτε να δείτε το βίντεο που ακολουθεί.
 
 https://youtu.be/4uZSBWuwkrM
-
-
 
 Αντίο για τώρα 
 
