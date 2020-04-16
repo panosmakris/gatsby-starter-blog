@@ -12,6 +12,219 @@ description: Ένας πρακτικός οδηγός για να κάνετε S
 categories: eshop, seo, οδηγος
 tags: "eshop, seo, οδηγος, rank math, schema, "
 ---
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "BlogPosting",
+"mainEntityOfPage": {
+"@type": "WebPage",
+"@id": "https://optimistic-volhard-c69d07.netlify.app/eshop-seo-2020/"
+},
+"headline": "Πως να κάνω SEO σε ένα Eshop?",
+"description": "Θα πρέπει να έχετε ένα eshop που να είναι λειτουργικό και γρήγορο σε κινητές συσκευές μιας και η Google έχει καθιερώσει το ‘mobile-first indexing’. Αυτό σημαίνει ότι το content και το UX της mobile version του eshop",
+"image": "https://optimistic-volhard-c69d07.netlify.com/assets/seo_404-screaming_frog_performance_marketing_athens.png",
+"author": {
+"@type": "Person",
+"name": "Panos Makris"
+},
+"publisher": {
+"@type": "Organization",
+"name": "Performance Marketing Athens",
+"logo": {
+"@type": "ImageObject",
+"url": "https://optimistic-volhard-c69d07.netlify.com/static/3a40b396e0bdf467af525d0e3696b1dd/30d3a/25.jpg",
+"width": 50,
+"height": 50
+}
+},
+"datePublished": "2020-04-10",
+"dateModified": "2020-04-16"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "HowTo", 
+  "name": "Eshop SEO 2020",
+  "description": "Σήμερα θα δούμε πώς να κάνουμε SEO για ένα Eshop - ‘μαγαζι ρούχων’ που έχει WordPress Website 5.4. Το Plugin που θα χρησιμοποιήσουμε είναι το γνωστό [και δωρεάν] ‘Rank Math’.",
+  "image": "https://optimistic-volhard-c69d07.netlify.com/assets/seo_404-screaming_frog_performance_marketing_athens.png",
+  "totalTime": "PT15M",
+  "estimatedCost": {
+    "@type": "MonetaryAmount",
+    "currency": "EUR",
+    "value": "0"
+  },
+  "supply": {
+    "@type": "HowToSupply",
+    "name": "WordPress"
+  },
+  "tool": {
+    "@type": "HowToTool",
+    "name": "Tool"
+  },
+  "step": [{
+    "@type": "HowToStep",
+    "text": "Για αρχή θα κάνουμε install το plugin Rank Math πηγαίνοντας στα ‘Πρόσθετα’",
+    "image": "https://optimistic-volhard-c69d07.netlify.app/assets/wordpress_5-4_greek.png",
+    "name": "Βήμα 1",
+    "url": "https://optimistic-volhard-c69d07.netlify.app/eshop-seo-2020/"
+  },{
+    "@type": "HowToStep",
+    "text": "Μετά πηγαίνουμε ‘Εγκατεστημένα’ > ‘Νέο Πρόσθετο’",
+    "image": "https://optimistic-volhard-c69d07.netlify.app/assets/wordpress_seo_2020_rank_math_greek_eshop.png",
+    "name": "Βήμα 2",
+    "url": "https://optimistic-volhard-c69d07.netlify.app/eshop-seo-2020/"
+  },{
+    "@type": "HowToStep",
+    "text": "Γράφουμε ‘Rank Math’ και πατάμε ‘Εγκατάσταση’ και μετά ‘Ενεργοποίηση’",
+    "image": "https://optimistic-volhard-c69d07.netlify.app/assets/wordpress_seo_2020_rank_math_greek_2020_eshop.png",
+    "name": "Βήμα 3",
+    "url": "https://optimistic-volhard-c69d07.netlify.app/eshop-seo-2020/"
+  },{
+    "@type": "HowToStep",
+    "text": "Πατάμε ‘Skip Now’",
+    "image": "https://optimistic-volhard-c69d07.netlify.app/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-19_52_25.png",
+    "name": "Βήμα 4",
+    "url": "https://optimistic-volhard-c69d07.netlify.app/eshop-seo-2020/"
+  },{
+    "@type": "HowToStep",
+    "text": "Και τώρα θα ξεκινήσουμε το βασικό setup του Rank Math.
+
+Πατάμε ‘Start Wizard’",
+    "image": "https://optimistic-volhard-c69d07.netlify.app/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-19_53_12.png",
+    "name": "Βήμα 5",
+    "url": "https://optimistic-volhard-c69d07.netlify.app/eshop-seo-2020/"
+  },{
+    "@type": "HowToStep",
+    "text": "Όπως είπαμε και στην αρχή θα κάνουμε SEO για μια επιχείρηση που είναι eshop - ‘μαγαζι ρουχων’.
+
+Οπότε διαλέγουμε: ‘Small Business Site’
+
+Για Business Type θα διαλέξουμε ‘clothing store ’
+
+Θα γράψουμε το όνομα στο Company Name
+
+Θα διαλέξουμε ή θα ανεβάσουμε το logo του eshop [εάν υπάρχει]
+
+Θα διαλέξουμε ή θα ανεβάσουμε μια εικόνα για social media [OG - Open Graph]
+
+Μετά θα πατήσουμε ‘Save and Continue’",
+    "image": "https://optimistic-volhard-c69d07.netlify.app/assets/wordpress_seo_2020_eshop_greek_rank_math-1-.png",
+    "name": "Βήμα 6",
+    "url": "https://optimistic-volhard-c69d07.netlify.app/eshop-seo-2020/"
+  },{
+    "@type": "HowToStep",
+    "text": "Εάν ξέρετε τι είναι Google Search Console ή έχετε πρόσβαση σε αυτό, τότε πατήστε στο ‘Authorize’
+
+Αλλιώς πατήστε ‘Skip Step’",
+    "image": "https://optimistic-volhard-c69d07.netlify.app/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-19_55_37.png",
+    "name": "Βήμα 7",
+    "url": "https://optimistic-volhard-c69d07.netlify.app/eshop-seo-2020/"
+  },{
+    "@type": "HowToStep",
+    "text": "*Ανάλογα με το theme σας, αυτή η εικόνα θα έχει περισσότερες ή λιγότερες επιλογές
+
+Πατάμε ‘On’ στα Sitemaps
+
+Πατάμε ‘Off’ στο Include Images
+
+Πατάμε ‘Deselect All’ στα Public Post Types και μετά τικ στο ‘Σελίδες’.
+
+Εάν έχετε και blog, τότε πατάμε και το ‘Άρθρα’
+
+Πατάμε ‘Deselect All’ στα Public Taxonomies
+
+Μετά θα πατήσουμε ‘Save and Continue’",
+    "image": "https://optimistic-volhard-c69d07.netlify.app/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-19_56_43.png",
+    "name": "Βήμα 8",
+    "url": "https://optimistic-volhard-c69d07.netlify.app/eshop-seo-2020/"
+  },{
+    "@type": "HowToStep",
+    "text": "Πατάμε ‘On’ και στις 3 επιλογές
+
+Μετά θα πατήσουμε ‘Save and Continue’",
+    "image": "https://optimistic-volhard-c69d07.netlify.app/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-19_59_06.png",
+    "name": "Βήμα 9",
+    "url": "https://optimistic-volhard-c69d07.netlify.app/eshop-seo-2020/"
+  },{
+    "@type": "HowToStep",
+    "text": "Πατάμε ‘On’ στο Auto Update [είναι καλό για λόγους ασφάλειας]
+
+Πατάμε ‘Off’ στην δεύτερη επιλογή επειδή υπάρχει κίνδυνος να σπάσει το front-end του site.
+
+Πατάμε ‘Setup Advanced Options’",
+    "image": "https://optimistic-volhard-c69d07.netlify.app/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-20_00_22.png",
+    "name": "Βήμα 10",
+    "url": "https://optimistic-volhard-c69d07.netlify.app/eshop-seo-2020/"
+  },{
+    "@type": "HowToStep",
+    "text": "Πατάμε ‘On’ και στις 2 επιλογές
+
+Μετά θα πατήσουμε ‘Save and Continue’",
+    "image": "https://optimistic-volhard-c69d07.netlify.app/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-20_01_18.png",
+    "name": "Βήμα 11",
+    "url": "https://optimistic-volhard-c69d07.netlify.app/eshop-seo-2020/"
+  },{
+    "@type": "HowToStep",
+    "text": "*Ανάλογα με το theme σας, αυτή η εικόνα θα έχει περισσότερες ή λιγότερες επιλογές
+
+Τώρα θα δούμε πως θα ρυθμίσουμε το Schema [δομημένα δεδομένα] για το eshop.
+
+Πατάμε ‘On’ στο Schema Type
+
+Εάν έχετε blog, διαλέξτε Article και μετά πατήστε ‘Blog Post’. Εάν δεν έχετε, τότε διαλέξτε ‘None (Click here to set one’)
+
+Διαλέγουμε ‘Service’ για τις Σελίδες
+
+Μετά θα πατήσουμε ‘Save and Continue’",
+    "image": "https://optimistic-volhard-c69d07.netlify.app/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-20_02_56.png",
+    "name": "Βήμα 12",
+    "url": "https://optimistic-volhard-c69d07.netlify.app/eshop-seo-2020/"
+  },{
+    "@type": "HowToStep",
+    "text": "Πατάμε ‘General Settings’ και μετά ‘Redirections’ για να ρυθμίσουμε την default επιλογή του 404.
+
+Πατάμε ‘On’ στο Debug Redirections
+
+Πατάμε ‘Redirect to Homepage’ στο Fallback behavior
+
+Διαλέγουμε ‘301’ για Redirection Type
+
+Πατάμε ‘On’ στο Auto Post Redirect
+
+Μετά θα πατήσουμε ‘Save Changes’",
+    "image": "https://optimistic-volhard-c69d07.netlify.app/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-20_09_33.png",
+    "name": "Βήμα 13",
+    "url": "https://optimistic-volhard-c69d07.netlify.app/eshop-seo-2020/"
+  },{
+    "@type": "HowToStep",
+    "text": "Το Robots Meta θα το αφήσουμε χωρίς να κάνουμε τικ σε κάποια από τις διαθέσιμες επιλογές
+
+Πατάμε ‘On’ στο Noindex Empty Category and Tag Archives
+
+Στο ‘Separator Character’ μπορείτε να διαλέξετε ότι θέλετε
+
+Το ίδιο και στο ‘Capitalize Titles’
+
+Πατάμε στο ‘OpenGraph Thumbnail’ και διαλέγουμε την εικόνα που θέλουμε να εμφανίζετε στα social media
+
+Διαλέγουμε ‘Summary Card with Large Image’ για Twitter Card Type
+
+Μετά θα πατήσουμε ‘Save Changes’
+
+Τα πεδία Headline & Description [στις καρτέλες General] μπορούν να συμπληρωθούν με ότι δεδομένα θέλετε.
+
+Στην Καρτέλα ‘Social’ θα βάλουμε τις εικόνες που θέλουμε να φαίνονται στα social media και πιο συγκεκριμένα στο Facebook & Twitter. Αυτό μπορούμε να το κάνουμε για κάθε σελίδα.",
+    "image": "https://optimistic-volhard-c69d07.netlify.app/assets/WordPress_SEO_2020_Rank_Math_Greek_2020.02.22-20_14_24.png",
+    "name": "Βήμα 14",
+    "url": "https://optimistic-volhard-c69d07.netlify.app/eshop-seo-2020/"
+  }]    
+}
+</script>
+
+
+
 ## Πως να κάνω SEO σε ένα Eshop?
 
 Είτε κάνετε SEO για το eshop σας είτε το δώσετε σε ένα Digital Marketing 360 agency για να το αναλάβει, τα σημεία που θα πρέπει να εστιάσετε για ένα ‘επιτυχημένο’ seo είναι τα ακόλουθα:
