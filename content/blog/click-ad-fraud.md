@@ -3,16 +3,14 @@ path: Click ad fraud
 date: 2019-10-23T07:34:39.567Z
 title: Click ad fraud
 thumbnail: /assets/click_ad_fraud_performance_marketing.jpg
-summary: >-
-  Click ad fraud είναι όταν κάποιος/κάποιοι κάνει/κάνουν κλικ στις διαφημίσεις
-  σας χωρίς να έχουν σκοπό να προβούν σε κάποιου είδους επαγγελματική συναλλαγή
-  με την επιχείρηση σας
-description: >-
-  "Click ad fraud είναι όταν κάποιος/κάποιοι κάνει/κάνουν κλικ στις διαφημίσεις
-  σας χωρίς να έχουν σκοπό να προβούν σε κάποιου είδους επαγγελματική συναλλαγή
-  με την επιχείρηση σας"
-categories: 'PPC, ADS, CLICK FRAUD'
-tags: 'PPC, ADS, CLICK FRAUD'
+summary: Click ad fraud είναι όταν κάποιος/κάποιοι κάνει/κάνουν κλικ στις
+  διαφημίσεις σας χωρίς να έχουν σκοπό να προβούν σε κάποιου είδους
+  επαγγελματική συναλλαγή με την επιχείρηση σας
+description: '"Click ad fraud είναι όταν κάποιος/κάποιοι κάνει/κάνουν κλικ στις
+  διαφημίσεις σας χωρίς να έχουν σκοπό να προβούν σε κάποιου είδους
+  επαγγελματική συναλλαγή με την επιχείρηση σας"'
+categories: PPC, ADS, CLICK FRAUD
+tags: PPC, ADS, CLICK FRAUD
 ---
 <script type="application/ld+json">
 {
@@ -20,7 +18,7 @@ tags: 'PPC, ADS, CLICK FRAUD'
   "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://optimistic-volhard-c69d07.netlify.com/click-ad-fraud/"
+    "@id": "https://optimistic-volhard-c69d07.netlify.app/click-ad-fraud/"
   },
   "headline": "Click ad fraud",
   "description": "Click ad fraud είναι όταν κάποιος/κάποιοι κάνει/κάνουν κλικ στις διαφημίσεις σας χωρίς να έχουν σκοπό να προβούν σε κάποιου είδους επαγγελματική συναλλαγή με την επιχείρηση σας",
@@ -34,7 +32,7 @@ tags: 'PPC, ADS, CLICK FRAUD'
     "name": "Performance Marketing Athens",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://optimistic-volhard-c69d07.netlify.com/static/3a40b396e0bdf467af525d0e3696b1dd/30d3a/25.jpg",
+      "url": "https://optimistic-volhard-c69d07.netlify.app/static/3a40b396e0bdf467af525d0e3696b1dd/30d3a/25.jpg",
       "width": 50,
       "height": 50
     }
