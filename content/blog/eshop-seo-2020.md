@@ -22,7 +22,7 @@ tags: "eshop, seo, οδηγος, rank math, schema, "
 },
 "headline": "Eshop SEO 2020",
 "description": "Θα πρέπει να έχετε ένα eshop που να είναι λειτουργικό και γρήγορο σε κινητές συσκευές μιας και η Google έχει καθιερώσει το ‘mobile-first indexing’. Αυτό σημαίνει ότι το content και το UX της mobile version του eshop",
-"image": "https://optimistic-volhard-c69d07.netlify.com/assets/seo_404-screaming_frog_performance_marketing_athens.png",
+"image": "https://optimistic-volhard-c69d07.netlify.app/assets/seo_404-screaming_frog_performance_marketing_athens.png",
 "author": {
 "@type": "Person",
 "name": "Panos Makris"
@@ -32,7 +32,7 @@ tags: "eshop, seo, οδηγος, rank math, schema, "
 "name": "Performance Marketing Athens",
 "logo": {
 "@type": "ImageObject",
-"url": "https://optimistic-volhard-c69d07.netlify.com/static/3a40b396e0bdf467af525d0e3696b1dd/30d3a/25.jpg",
+"url": "https://optimistic-volhard-c69d07.netlify.app/static/3a40b396e0bdf467af525d0e3696b1dd/30d3a/25.jpg",
 "width": 50,
 "height": 50
 }
@@ -48,7 +48,7 @@ tags: "eshop, seo, οδηγος, rank math, schema, "
   "@type": "HowTo", 
   "name": "Eshop SEO 2020",
   "description": "Σήμερα θα δούμε πώς να κάνουμε SEO για ένα Eshop - ‘μαγαζι ρούχων’ που έχει WordPress Website 5.4. Το Plugin που θα χρησιμοποιήσουμε είναι το γνωστό [και δωρεάν] ‘Rank Math’.",
-  "image": "https://optimistic-volhard-c69d07.netlify.com/assets/seo_404-screaming_frog_performance_marketing_athens.png",
+  "image": "https://optimistic-volhard-c69d07.netlify.app/assets/seo_404-screaming_frog_performance_marketing_athens.png",
   "totalTime": "PT15M",
   "estimatedCost": {
     "@type": "MonetaryAmount",
