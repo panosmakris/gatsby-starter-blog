@@ -1,7 +1,7 @@
 ---
 path: seo-eshop-2020
 date: 2020-04-10T15:22:07.600Z
-title: Eshop SEO 2020
+title: Eshop SEO 2020 [Πρακτικός Οδηγός για WooCommerce]
 thumbnail: /assets/seo_404-screaming_frog_performance_marketing_athens.png
 summary: >
   Θα πρέπει να έχετε ένα eshop που να είναι λειτουργικό και γρήγορο σε κινητές
@@ -20,7 +20,7 @@ tags: "eshop, seo, οδηγος, rank math, schema, "
 "@type": "WebPage",
 "@id": "https://optimistic-volhard-c69d07.netlify.app/eshop-seo-2020/"
 },
-"headline": "Eshop SEO 2020",
+"headline": "Eshop SEO 2020 [Πρακτικός Οδηγός για WooCommerce]",
 "description": "Θα πρέπει να έχετε ένα eshop που να είναι λειτουργικό και γρήγορο σε κινητές συσκευές μιας και η Google έχει καθιερώσει το ‘mobile-first indexing’. Αυτό σημαίνει ότι το content και το UX της mobile version του eshop",
 "image": "https://optimistic-volhard-c69d07.netlify.app/assets/seo_404-screaming_frog_performance_marketing_athens.png",
 "author": {
@@ -38,7 +38,7 @@ tags: "eshop, seo, οδηγος, rank math, schema, "
 }
 },
 "datePublished": "2020-04-10",
-"dateModified": "2020-04-16"
+"dateModified": "2020-05-21"
 }
 </script>
 
@@ -46,7 +46,7 @@ tags: "eshop, seo, οδηγος, rank math, schema, "
 {
   "@context": "https://schema.org/", 
   "@type": "HowTo", 
-  "name": "Eshop SEO 2020",
+  "name": "Eshop SEO 2020 [Πρακτικός Οδηγός για WooCommerce]",
   "description": "Σήμερα θα δούμε πώς να κάνουμε SEO για ένα Eshop - ‘μαγαζι ρούχων’ που έχει WordPress Website 5.4. Το Plugin που θα χρησιμοποιήσουμε είναι το γνωστό [και δωρεάν] ‘Rank Math’.",
   "image": "https://optimistic-volhard-c69d07.netlify.app/assets/seo_404-screaming_frog_performance_marketing_athens.png",
   "totalTime": "PT15M",
